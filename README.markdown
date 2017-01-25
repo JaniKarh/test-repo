@@ -1,5 +1,5 @@
 This is a test repository
 =========================
 
-Contains basically nothing.
+Contains very little, yet something.
 
