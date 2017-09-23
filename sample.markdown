@@ -20,4 +20,6 @@ More text added from another source.
 
 And some more from the 1st.
 
+The latest addition done September 23rd 2017.
+
 End.
