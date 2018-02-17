@@ -22,4 +22,6 @@ And some more from the 1st.
 
 The latest addition done September 23rd 2017.
 
+some more text from iPad on Feb 17th 2018.
+
 End.
