@@ -12,3 +12,6 @@ Another test change.
 Anothet day, another change.
 
 just changed something!
+
+# Blog post
+Hello there. This might be a blog post.
